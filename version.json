@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "2.1",
-  "downloadUrl": "https://github.com/khoaz1003/VNHomeTV-Launcher/releases/download/apk2.1/VNHomeTV_v2.1.apk",
-  "changelog": "- Thêm tính năng kiểm tra cập nhật\n- Tối ưu hóa giao diện cài đặt\n -Cải thiện độ ổn định"
+  "versionCode": 4,
+  "versionName": "2.2",
+  "downloadUrl": "https://github.com/khoaz1003/VNHomeTV-Launcher/releases/download/apk2.2/VNHomeTV_v2.2.apk",
+  "changelog": "- Thêm tính năng Khởi động lại Launcher\n (Sử dụng trong trường hợp bị lag / cài đặt app mới mà launcher chưa hiện)\n- Tối ưu hóa giao diện cài đặt\n -Cải thiện độ ổn định"
 }
