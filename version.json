@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "2.2",
-  "downloadUrl": "https://github.com/khoaz1003/VNHomeTV-Launcher/releases/download/apk2.2/VNHomeTV_v2.2.apk",
-  "changelog": "- Thêm hình nền mới\n- Sửa lỗi ko vào dc đầu vào TV\n- Tinh chỉnh giao diện"
+  "versionCode": 5,
+  "versionName": "3.0",
+  "downloadUrl": "https://github.com/khoaz1003/VNHomeTV-Launcher/releases/download/apk3.0/VNHomeTV_v3.0.apk",
+  "changelog": "- Giao diện mica trong suốt mới\n- Thêm tính năng tăng kích thước icon\n- Thêm tính năng ẩn Đầu vào TV\n- Thêm hình nền mới\n- Tinh chỉnh hiệu ứng\n Fix lỗi ko dùng dc dầu vào TV trên 1 số dòng TV\n- Cải thiện độ ổn định\n và 1 vài tình năng khác..."
 }
